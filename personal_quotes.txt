@@ -1,2 +1,6 @@
 Strength Through Struggle-Michael Chois
+<<<<<<< HEAD
 i like blue-prasoon
+=======
+i like green-prasoon
+>>>>>>> personal_color
