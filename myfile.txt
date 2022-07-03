@@ -1,3 +1,8 @@
 do or do not,there is no try-YODA
 It always seems impossible untill its done-Nelson Mandella
-The best way to create a future is to create it
+<<<<<<< HEAD
+The best way to create a future is to create it-Father
+=======
+My name is khan and iam not a terriost.
+Dream is not what u see while sleeping and it is ,which don't  let u sleep.--APJ Abdul Kalam
+>>>>>>> ef4d166b5d242aad0ac494485ed739d5424dd936
